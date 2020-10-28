@@ -1,0 +1,28 @@
+
+
+
+/*general css*/
+body{
+	font-family: 'Dosis', sans-serif;
+}
+
+.sec{
+	background-color: #FFAEC9;
+	min-height: 80px;
+	margin-top: 5px;
+}
+.box{
+	background-color: #99D9EA;
+	min-height: 70px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+.box1{
+	background-color: yellow;
+	min-height: 70px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-radius: 50px;
+	text-align: center;
+}
